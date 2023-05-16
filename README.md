@@ -1,5 +1,6 @@
 # Install Ubuntu
 Creat ubuntu image on flashdrive and start up using that USB drive
+>> Have a flash drive with Ubuntu 20.04, although mysterious graphics error exists
 
 # Creatng a bootlable USB using Windoes
 Download Ubuntu image .iso file 
@@ -22,11 +23,7 @@ sudo sh NVIDIA....run
 ```
 nvidia-smi
 ```
-
-# Install CuDNN
-```
-nvcc -V
-```
+Use CUDA instillation instructions, including setup guide for Linux
 
 # Install Git
 ```
@@ -141,8 +138,6 @@ sudo apt-get install terminator
 ```
 
 # Install VSCode
-
-# Intsall Sportify
 
 # Setting a Static ethernet IP address for Jetson 
 - Desktop computer:
