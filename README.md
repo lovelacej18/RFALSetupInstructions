@@ -20,9 +20,6 @@ Download drivers from Nvidia wesite using computer specs
 sudo sh NVIDIA....run
 
 # Install CUDA 
-```
-nvidia-smi
-```
 Use CUDA instillation instructions, including setup guide for Linux
 
 # Install Git
