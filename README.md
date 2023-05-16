@@ -35,31 +35,17 @@ Enter ls -al ~/.ssh to see if existing SSH keys are present.
 
 ## Install large file Git
 Download https://git-lfs.com/
-```
-sudo apt update
-sudo apt install tar gzip build-essential
-tar -xvzf git-lfs-linux-amd64-v3.3.0.tar.gz 
-cd git- m... 
-./install
-git lfs install
-git lfs track "*.psd"
-git add .gitattributes
-```
-## Git Submodule
-```
-git submodule init
-git submodule update
-```
 
 # Install Python
 ```
 sudo apt-get -y install python3-dev python3-pip 
 pip3 --version
-sudo apt install python-pip
+sudo apt install python3-pip
 pip --version
 sudo pip install numpy scipy matplotlib scikit-image scikit-learn ipython
 ```
 
+# Not doing this one this time around!
 # Install OpenCV
 ```
 sudo apt-get -y install libjpeg8-dev libjasper1 libpng-dev
