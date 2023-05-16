@@ -43,6 +43,11 @@ pip3 --version
 sudo apt install python3-pip
 pip --version
 sudo pip install numpy scipy matplotlib scikit-image scikit-learn ipython
+
+# for upgrading packages in python3
+python3 -m pip install --upgrade <package>
+
+
 ```
 
 # Not doing this one this time around!
