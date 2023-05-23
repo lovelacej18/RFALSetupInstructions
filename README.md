@@ -2,7 +2,7 @@
 Creat ubuntu image on flashdrive and start up using that USB drive
 >> Have a flash drive with Ubuntu 20.04, although mysterious graphics error exists
 
-# Creatng a bootlable USB using Windoes
+# Creatng a bootlable USB using Windows
 Download Ubuntu image .iso file 
 Use Rufus to create Bootle USB
 https://www.maketecheasier.com/use-rufus-create-bootable-flash-drive/
