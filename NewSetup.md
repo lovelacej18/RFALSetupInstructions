@@ -90,3 +90,5 @@ ROS Noetic (newest version!)
 
 Almost re-installed ubuntu when the network wasn't showing up - but now we're good! 
 
+Update 6-20-23 - OpenCV version 4.2.0 already installed (assumably with ZED wrapper dependencies!)
+
